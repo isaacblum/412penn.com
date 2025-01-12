@@ -17,22 +17,22 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Things to Do"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Experience adventure at Lathrop State Park"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fa-solid fa-fish" #find more at https://fontawesome.com/icons
+      - title: "Uncover Walsenburg's rich history"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fa-solid fa-landmark
+      - title: "Journey the Spanish Peaks Scenic Byway"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fa-solid fa-road
 
   portfolio:
-    title: "Portfolio"
+    title: "The House"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
