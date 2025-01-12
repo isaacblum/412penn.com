@@ -18,7 +18,7 @@ url    : "https://412penn.com" # the base hostname & protocol for your site, e.g
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : 412 Pennsylvania Avenue
-email      : contactus@aivacaco.com #this is also the email contact forms will go to
+email      : contact-us@aivacaco.com #this is also the email contact forms will go to
 description: "Our neighborhood is located on the Northeast side of Walsenburg, with mostly single family homes North of the railroad tracks.  Quiet days are perfect to enjoy the weather and watch deer graze on grass and shrubs.  Our porch is a perfect spot to watch the sunset behind the Spanish Peaks. From our property, it's easy to access the Walsenburg Mercantile and Main Street corridor by foot."
 author     : Amanda & Isaac
 # logo:     #optional, defaults to site title
