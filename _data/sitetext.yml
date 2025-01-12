@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Experience adventure at Lathrop State Park"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-fish #find more at https://fontawesome.com/icons
+        icon: fas fa-fish #find more at https://fontawesome.com/icons
       - title: "Uncover Walsenburg's rich history"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-landmark
+        icon: fas fa-landmark
       - title: "Journey the Spanish Peaks Scenic Byway"
         desc: "Your description here, full **Markdown** support"
-        icon: fa-solid fa-road
+        icon: fas fa-road
 
   portfolio:
     title: "The House"
