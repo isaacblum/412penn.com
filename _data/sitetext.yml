@@ -51,22 +51,22 @@ en: &DEFAULT_EN
       - title: "Home Puchase"
         year: "July 2023"
         desc: "Our journey began with the acquisition of this charming home, captivated by its potential and the scenic surroundings of Walsenburg."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/Home Purchase Walsenburg Jan 17.png
         alt:
       - title: "To the studs"
         year: "July 2024"
         desc: "We embraced a complete renovation, stripping the house to its studs to lay the foundation for a modern and comfortable living space."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/Interior Renovation Art Jan 17.png
         alt:
       - title: "Layout Changes"
         year: "Dec 2024"
         desc: "Reimagining the interior, we enhanced the functionality and flow, including the addition of a second bathroom and new, spacious living areas."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/Farmhouse Floor Plan Jan 17.png
         alt: image alt text
       - title: "Or first stay"
         year: "Feb 2025"
         desc: "After months of dedication and transformation, our first experience in the revamped home confirmed its promise as a serene retreat ready to welcome guests."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/Cozy Farmhouse Depiction.png
         alt:
         # you can enforce the alignment
         align: right
