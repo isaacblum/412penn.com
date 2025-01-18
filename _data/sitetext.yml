@@ -18,22 +18,26 @@ en: &DEFAULT_EN
 
   services:
     title: "Things to Do"
-    text: "Lorem ipsum"
+    text: "Plan Your Stay"
     section: services
     list:
       - title: "Experience adventure at Lathrop State Park"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Discover the myriad of activities awaiting you in and around your rental house in Walsenburg, Colorado! Nestled at the heart of Huerfano County, Walsenburg offers a diverse array of attractions and adventures for every type of traveler. Begin your journey with a visit to Lathrop State Park, Colorado's first state park, which boasts 1,594 acres of unspoiled beauty. Perfect for families and nature enthusiasts alike, the park offers a range of outdoor activities including hiking, fishing, and boating on the serene Martin and Horseshoe Lakes."
         icon: fas fa-fish #find more at https://fontawesome.com/icons
       - title: "Uncover Walsenburg's rich history"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Immerse yourself in the vibrant history of Walsenburg by exploring its local museums and historic sites. Learn about the area's rich mining heritage and how it helped to shape the community. Don't miss the chance to visit the Walsenburg Mining Museum, where intriguing exhibits and artifacts tell the story of the miners who lived and worked in this rugged landscape."
         icon: fas fa-landmark
       - title: "Journey the Spanish Peaks Scenic Byway"
-        desc: "Your description here, full **Markdown** support"
+        desc: "For those looking to take a scenic drive, embark on the Spanish Peaks Scenic Byway. This picturesque route meanders through stunning landscapes, offering majestic views of the iconic Spanish Peaks and the surrounding Cuchara Valley. Along the way, you'll encounter charming small towns, lush forests, and endless natural beauty, making it a perfect day trip for adventurers and sightseers alike. Whether you're seeking outdoor exploration, cultural immersion, or scenic tranquility, Walsenburg has something special for everyone."
         icon: fas fa-road
 
   portfolio:
     title: "The House"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Step into a beautifully revamped sanctuary that promises comfort and style at every turn. Our home, meticulously renovated from the studs, offers a fresh beginning with a complete overhaul that blends modern amenities with inviting charm. As you approach, you'll be greeted by a covered front porch—an inviting space to soak in the Colorado weather and enjoy the tranquility of the outdoors. The property also features a convenient covered carport and ample off-street parking.
+    <br><br>
+    Inside, you'll find a thoughtfully designed space that boasts all-new appliances and high-quality finishes throughout. The renovation includes fully insulated walls, new flooring, and stylish furnishings, complemented by tasteful decor and fresh paint that create a welcoming and cozy atmosphere. With the addition of a second bathroom, the home now comfortably accommodates all guests, featuring three spacious bedrooms ideal for relaxing after a day of exploration.
+    <br><br>
+    Stay connected with high-speed internet, and enjoy optimal comfort with the brand-new central air conditioning and furnace system. The tiered backyard offers two levels of relaxation, providing a private sanctuary to unwind and entertain. Our home is the perfect blend of modern convenience and serene living, ensuring your stay in Walsenburg is as enjoyable and comfortable as possible."
     section: portfolio
     closebutton: "Close Project"
 
@@ -45,23 +49,23 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Home Puchase"
-        year: "Jul 2023"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "July 2023"
+        desc: "Our journey began with the acquisition of this charming home, captivated by its potential and the scenic surroundings of Walsenburg."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "To the studs"
-        year: "Jul 2024"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "July 2024"
+        desc: "We embraced a complete renovation, stripping the house to its studs to lay the foundation for a modern and comfortable living space."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Layout Changes"
         year: "Dec 2024"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Reimagining the interior, we enhanced the functionality and flow, including the addition of a second bathroom and new, spacious living areas."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Or first stay"
         year: "Feb 2025"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "After months of dedication and transformation, our first experience in the revamped home confirmed its promise as a serene retreat ready to welcome guests."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -69,15 +73,17 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Discover Our Neighborhood"
+    text: "Overview"
+    body: "Welcome to our charming neighborhood on the Northeast side of Walsenburg, where tranquility meets convenience. Tucked away just north of the railroad tracks, our area is predominantly composed of single-family homes, offering you a peaceful retreat in the heart of nature. Enjoy quiet days watching gentle deer roam and graze amidst the lush greenery, a serene backdrop that perfectly complements your getaway experience. 
+    <br><br> 
+    Our property boasts a delightful porch, inviting you to relax and take in the stunning sunsets that paint the sky behind the majestic Spanish Peaks. This picturesque view is bound to become one of your favorite moments during your stay. Despite the serene and laid-back atmosphere, you'll find plenty of local amenities within walking distance. Stroll over to the Walsenburg Mercantile and explore the vibrant Main Street corridor, where you'll discover a delightful mix of local shops, dining options, and historical landmarks. Whether you're unwinding on the porch or exploring the neighborhood, you'll find our corner of Walsenburg to be an ideal blend of peace and accessibility."
     section: about
 
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
       - title: "airbnb"
         url: https://github.com/raviriley/agency-jekyll-theme
@@ -88,18 +94,21 @@ en: &DEFAULT_EN
       - title: "Booking"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: https://yt3.googleusercontent.com/QjgBje2kUkOpOUpX6hTBVxXL07KjpMVcPyNhPmijo70qR93Yfi1TeslytgpckIn9-9Znfc6QXw=s900-c-k-c0x00ffffff-no-rj
-      - title: "Creative Market"
+      - title: "VRBO"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: https://www.vrbo.com/_dms/header/logo.svg?locale=en_US&siteid=9001001&2&6f9ec7db
 
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: Together, Amanda and Isaac are just two Colorado lovers who stumbled upon the perfect cozy getaway for themselves and are excited to share it with you. They approach this venture with warmth and enthusiasm, hoping to offer a slice of the tranquility they’ve found to fellow travelers.
     section: team
     people:
       - name: "Amanda"
-        role: "Designer, Developer"
+        role: "Heart of Hospitality
+                <br><br>
+        Amanda is a dedicated firefighter with a passion for nurturing and ensuring comfort. Her warmth and attention to detail help create the welcoming atmosphere that makes our vacation home a cozy retreat.
+        "
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -109,7 +118,10 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Isaac"
-        role: "Paper Pusher"
+        role: "Tech Enthusiast & Home Improver
+        <br><br>
+        With a career in IT, Isaac loves blending modern convenience with homey touches. His tech skills and enthusiasm for home improvement make our place a unique blend of comfort and ease.
+        "
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
