@@ -39,7 +39,7 @@ en: &DEFAULT_EN
     <br><br>
     Stay connected with high-speed internet, and enjoy optimal comfort with the brand-new central air conditioning and furnace system. The tiered backyard offers two levels of relaxation, providing a private sanctuary to unwind and entertain. Our home is the perfect blend of modern convenience and serene living, ensuring your stay in Walsenburg is as enjoyable and comfortable as possible."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
@@ -100,14 +100,14 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Together, Amanda and Isaac are just two Colorado lovers who stumbled upon the perfect cozy getaway for themselves and are excited to share it with you. They approach this venture with warmth and enthusiasm, hoping to offer a slice of the tranquility they’ve found to fellow travelers.
+    text: "We're Amanda and Isaac, a friendly Colorado duo who found our dream cozy hideaway and couldn't wait to share it with others. We approach this adventure with warmth and enthusiasm, eager to offer visitors a little piece of the tranquility we've come to love."
+    subtext: ""
     section: team
     people:
       - name: "Amanda"
         role: "Heart of Hospitality
                 <br><br>
-        Amanda is a dedicated firefighter with a passion for nurturing and ensuring comfort. Her warmth and attention to detail help create the welcoming atmosphere that makes our vacation home a cozy retreat.
+        Amanda is a dedicated firefighter who brings her nurturing spirit and attention to detail to every corner of our vacation home, ensuring it's a cozy and welcoming retreat for every guest.
         "
         image: assets/img/team/500x500.jpg
         social:
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
       - name: "Isaac"
         role: "Tech Enthusiast & Home Improver
         <br><br>
-        With a career in IT, Isaac loves blending modern convenience with homey touches. His tech skills and enthusiasm for home improvement make our place a unique blend of comfort and ease.
+        With a background in IT, Isaac enjoys combining modern technology with personal touches to create a seamless and comfortable environment that's perfect for relaxation and rejuvenation.
         "
         image: assets/img/team/2.jpg
         social:
