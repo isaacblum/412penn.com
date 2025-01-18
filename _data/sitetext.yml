@@ -43,7 +43,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "How We Got Here"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -101,7 +101,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "We're Amanda and Isaac, a friendly Colorado duo who found our dream cozy hideaway and couldn't wait to share it with others. We approach this adventure with warmth and enthusiasm, eager to offer visitors a little piece of the tranquility we've come to love."
-    subtext: "Click on one of the links below to book your stay with us!"
+    subtext: "<br><br><br>Click on one of the links below to book your stay with us!"
     section: team
     people:
       - name: "Amanda"
