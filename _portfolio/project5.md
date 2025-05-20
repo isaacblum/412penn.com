@@ -1,14 +1,18 @@
 ---
 title: Guest Bathroom
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/GuestBathroom.png
+subtitle: Smart Style & Everyday Ease
+image: assets/img/portfolio/bath.jpeg
 alt: 
 
 caption:
   title: Guest Bathroom
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/GuestBathroom.png
+  subtitle: Smart Style & Everyday Ease
+  thumbnail: assets/img/portfolio/bath-thumb.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+This second bathroom offers a clean, polished feel with creative design accents. Enjoy a roomy, glass-enclosed shower with a spa-like rainfall head. A well-lit vanity, backlit mirror, and ample shelving make morning routines simple and streamlined. The bold wallpaper adds personality without sacrificing comfort—ideal for professionals looking for something a little different in their long-term stay.
+
+![Alt text](assets/img/portfolio/bath1.jpeg){: width="600" .center }
+![Alt text](assets/img/portfolio/bath2.jpeg){: width="600" .center }
 
 {:.list-inline}

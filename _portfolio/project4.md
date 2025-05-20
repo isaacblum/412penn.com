@@ -1,14 +1,20 @@
 ---
 title: Master Bathroom
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+subtitle: Modern Design Meets Everyday Function
+image: assets/img/portfolio/mbath1.jpeg
 alt: 
 
 caption:
   title: Master Bathroom
-  subtitle: Indulge & Unwind
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  subtitle: Modern Design Meets Everyday Function
+  thumbnail: assets/img/portfolio/mbath1-thumb.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Start and end your day in this thoughtfully designed master bathroom, featuring a custom glass-enclosed shower with a rainfall and handheld head combo. The sleek tilework, built-in shower niche, and bright vanity offer both style and function. With open shelving for essentials and a clean, uncluttered feel, it’s a practical yet polished space perfect for long-term stays.
+
+![Alt text](assets/img/portfolio/mbath2.jpeg){: width="600" .center }
+![Alt text](assets/img/portfolio/mbath3.jpeg){: width="600" .center }
+![Alt text](assets/img/portfolio/mbath4.jpeg){: width="600" .center }
+![Alt text](assets/img/portfolio/mbath5.jpeg){: width="600" .center }
 
 {:.list-inline}

@@ -1,14 +1,20 @@
 ---
 title: Living Room
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/livingroom.png
+subtitle: Bright, Functional & Relaxation-Ready
+image: assets/img/portfolio/living.jpeg
 alt: 
 
 caption:
   title: Living Room
-  subtitle: Gather & Enjoy
-  thumbnail: assets/img/portfolio/livingroom.png
+  subtitle: Bright, Functional & Relaxation-Ready
+  thumbnail: assets/img/portfolio/living-thumb.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+This spacious living room offers a calm, welcoming environment ideal for long-term guests. A comfortable sectional and additional seating create a perfect place to unwind after work or host a casual meeting. The mounted TV and soundbar provide entertainment, while the open layout and dedicated dining/work table add versatility to your daily routine. Clean design, soft lighting, and warm tones make this a true home base for any professional stay.
+
+![Alt text](assets/img/portfolio/living2.jpeg){: width="600" .center }
+![Alt text](assets/img/portfolio/living3.jpeg){: width="600" .center }
+![Alt text](assets/img/portfolio/living4.jpeg){: width="600" .center }
+
 
 {:.list-inline}

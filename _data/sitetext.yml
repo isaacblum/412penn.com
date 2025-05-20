@@ -86,16 +86,16 @@ en: &DEFAULT_EN
     horizontal-scrolling: "no" #"yes/no"
     list:
       - title: "airbnb"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://412penn.com
         logo: https://press.airbnb.com/wp-content/uploads/sites/4/2017/01/airbnb_vertical_lockup_web.png?fit=2096,1048
       - title: "furnished finder"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.furnishedfinder.com/property/857947_1
         logo: https://media.licdn.com/dms/image/v2/C4E0BAQG8gUFzloBq1Q/company-logo_200_200/company-logo_200_200/0/1630639066224/furnished_finder_logo?e=2147483647&v=beta&t=H48qOBtZ1RyAlgU8zn3glZGZQrGnX6eESBY0nxZ0jMI
       - title: "Booking"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: https://yt3.googleusercontent.com/QjgBje2kUkOpOUpX6hTBVxXL07KjpMVcPyNhPmijo70qR93Yfi1TeslytgpckIn9-9Znfc6QXw=s900-c-k-c0x00ffffff-no-rj
+        url: https://412penn.com
+        logo: https://miro.medium.com/v2/resize:fit:1200/format:webp/0*DvIyCEBtEjt0h4kY.png
       - title: "VRBO"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://412penn.com
         logo: https://www.vrbo.com/_dms/header/logo.svg?locale=en_US&siteid=9001001&2&6f9ec7db
 
   team:
@@ -104,20 +104,13 @@ en: &DEFAULT_EN
     subtext: "<br><br><br>Click on one of the links below to book your stay with us!"
     section: team
     people:
-      - name: "Amanda"
-        role: "Heart of Hospitality
+      - name: "Amanda & Isaac"
+        role: "Heart & Hands Behind the Home
                 <br><br>
-        Amanda is a dedicated firefighter who brings her nurturing spirit and attention to detail to every corner of our vacation home, ensuring it's a cozy and welcoming retreat for every guest.
-        "
-        image: assets/img/team/500x500.jpg
+                Amanda, a dedicated firefighter, brings her nurturing spirit and attention to detail to every corner of our vacation home, ensuring it's a cozy and welcoming retreat for every guest. Isaac, with a background in IT, blends modern technology with thoughtful design to create a seamless and comfortable environment perfect for relaxation and rejuvenation."
+        image: assets/img/team/Amanda_Isaac.jpg
         social:
-      - name: "Isaac"
-        role: "Tech Enthusiast & Home Improver
-        <br><br>
-        With a background in IT, Isaac enjoys combining modern technology with personal touches to create a seamless and comfortable environment that's perfect for relaxation and rejuvenation.
-        "
-        image: assets/img/team/2.jpg
-        social:
+
 
   contact:
     title: "Contact Us"
@@ -137,11 +130,11 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://412penn.com
         icon: "fab fa-twitter"
-      - url: https://facebook.com
+      - url: https://412penn.com
         icon: "fab fa-facebook-f"
-      - url: https://instagram.com
+      - url: https://412penn.com
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
@@ -152,157 +145,3 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# # Spanish
-# # -------
-# es: &DEFAULT_ES
-#   header:
-#     title: ¡Bienvenido a nuestro Estudio!
-#     text: Es un placer conocerle
-#     button: Ver más
-#     buttonlink: "#servicios"
-
-#   services:
-#     title: "Servicios"
-#     text: "Lorem ipsum"
-#     section: servicios
-#     list:
-#       - title: "Comercio Electrónico"
-#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-#         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-#       - title: "Diseño Responsivo"
-#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-#         icon: fas fa-laptop
-#       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-#         desc: "Su descripción aquí, soporte completo de **Markdown**"
-#         icon: fab fa-markdown
-
-#   portfolio:
-#     title: "Portafolio"
-#     text: "Lorem ipsum dolor sit amet consectetur."
-#     section: portafolio
-#     closebutton: "Cerrar Proyecto"
-
-#   timeline:
-#     title: "Cronología"
-#     text: "Lorem ipsum timeline"
-#     section: cronologia
-#     # left is the default
-#     #start_align: "left"
-#     events:
-#       - title: "Nuestro Humilde Comienzo"
-#         year: "2009-2011"
-#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-#         image: assets/img/timeline/1.jpg
-#         alt:
-#       - title: "Una Agencia nace"
-#         year: "March 2011"
-#         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-#         image: assets/img/timeline/2.jpg
-#         alt:
-#       - title: "La plantilla Jekyll es creada"
-#         year: "2019"
-#         desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
-#         image: assets/img/timeline/3.jpg
-#         alt: image alt text
-#       - title: "Título"
-#         year: "2009-2011"
-#         desc: "Su descripción aquí, **Markdown** es soportado completamente."
-#         image: assets/img/timeline/4.jpg
-#         alt:
-#         # you can enforce the alignment
-#         align: right
-#     end: "¡Se parte <br> de Nuestra <br> Historia!"
-
-#   about:
-#     title: "Sobre nosotros"
-#     text: "nuestra historia"
-#     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-#     section: nosotros
-
-#   clients:
-#     section: clientes
-#     max-height: 100px
-#     horizontal-scrolling: "" #"yes/no"
-#     list:
-#       - title: "envato"
-#         url: https://github.com/raviriley/agency-jekyll-theme
-#         logo: assets/img/clients/envato.jpg
-#       - title: "designmodo"
-#         url: https://github.com/raviriley/agency-jekyll-theme
-#         logo: assets/img/clients/designmodo.jpg
-#       - title: "themeforest"
-#         url: https://github.com/raviriley/agency-jekyll-theme
-#         logo: assets/img/clients/themeforest.jpg
-#       - title: "Creative Market"
-#         url: https://github.com/raviriley/agency-jekyll-theme
-#         logo: assets/img/clients/creative-market.jpg
-
-#   team:
-#     title: "NUESTRO INCREÍBLE EQUIPO"
-#     text: "Lorem ipsum dolor sit amet consectetur."
-#     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-#     section: equipo
-#     people:
-#       - name: "Kay Garland"
-#         role: "Lead Designer"
-#         image: assets/img/team/500x500.jpg
-#         social:
-#           - url: https://twitter.com
-#             icon: fab fa-twitter
-#           - url: https://facebook.com
-#             icon: fab fa-facebook-f
-#           - url: https://linkedin.com
-#             icon: fab fa-linkedin-in
-#       - name: "Larry Parker"
-#         role: "Lead Marketer"
-#         image: assets/img/team/2.jpg
-#         social:
-#           - url: https://twitter.com
-#             icon: fab fa-twitter
-#           - url: https://facebook.com
-#             icon: fab fa-facebook-f
-#           - url: https://linkedin.com
-#             icon: fab fa-linkedin-in
-#       - name: "Diana Perterson"
-#         role: "Lead Developer"
-#         image: assets/img/team/500x500.jpg
-#         social:
-#           - url: https://twitter.com
-#             icon: fab fa-twitter
-#           - url: https://facebook.com
-#             icon: fab fa-facebook-f
-#           - url: https://linkedin.com
-#             icon: fab fa-linkedin-in
-
-#   contact:
-#     title: "Contáctenos"
-#     text: "Lorem ipsum or call 123456789"
-#     section: contacto
-#     name: "Nombre*"
-#     name-validation: "Por favor ingrese su nombre."
-#     email: "Correo Electrónico*"
-#     email-validation: "Por favor ingrese su correo electrónico."
-#     phone: "Número Telefónico*"
-#     phone-validation: "Por favor ingrese su número telefónico."
-#     message: "Mensaje*"
-#     message-validation: "Por favor escriba un mensaje."
-#     subject: "Envío del formulario de contacto"
-#     submit: "Enviar Mensaje"
-
-#   footer:
-#     legal: "Política de Privacidad"
-#     social:
-#       - url: https://twitter.com
-#         icon: "fab fa-twitter"
-#       - url: https://facebook.com
-#         icon: "fab fa-facebook-f"
-#       - url: https://linkedin.com
-#         icon: "fab fa-linkedin-in"
-#       - url: https://github.com/raviriley/agency-jekyll-theme
-#         icon: "fab fa-github"
-#       - url: https://instagram.com
-#         icon: "fab fa-instagram"
-# es-ES:
-#   <<: *DEFAULT_ES
-# es-CO:
-#   <<: *DEFAULT_ES
