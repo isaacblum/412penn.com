@@ -86,7 +86,7 @@ en: &DEFAULT_EN
     horizontal-scrolling: "no" #"yes/no"
     list:
       - title: "airbnb"
-        url: https://412penn.com
+        url: https://www.airbnb.com/rooms/1424729935677333239
         logo: https://press.airbnb.com/wp-content/uploads/sites/4/2017/01/airbnb_vertical_lockup_web.png?fit=2096,1048
       - title: "furnished finder"
         url: https://www.furnishedfinder.com/property/857947_1
@@ -95,7 +95,7 @@ en: &DEFAULT_EN
         url: https://412penn.com
         logo: https://miro.medium.com/v2/resize:fit:1200/format:webp/0*DvIyCEBtEjt0h4kY.png
       - title: "VRBO"
-        url: https://412penn.com
+        url: https://www.vrbo.com/4609582
         logo: https://www.vrbo.com/_dms/header/logo.svg?locale=en_US&siteid=9001001&2&6f9ec7db
 
   team:
