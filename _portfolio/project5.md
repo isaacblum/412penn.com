@@ -12,7 +12,7 @@ caption:
 
 This second bathroom offers a clean, polished feel with creative design accents. Enjoy a roomy, glass-enclosed shower with a spa-like rainfall head. A well-lit vanity, backlit mirror, and ample shelving make morning routines simple and streamlined. The bold wallpaper adds personality without sacrificing comfort—ideal for professionals looking for something a little different in their long-term stay.
 
-![Alt text](assets/img/portfolio/bath1.jpeg){: width="600" .center }
-![Alt text](assets/img/portfolio/bath2.jpeg){: width="600" .center }
+![Alt text](assets/img/portfolio/bath1.jpeg){: .responsive-img .center }
+![Alt text](assets/img/portfolio/bath2.jpeg){: .responsive-img .center }
 
 {:.list-inline}

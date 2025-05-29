@@ -14,6 +14,10 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
+# For remote_theme, this tells Jekyll to use a custom head include if present
+include:
+  - _includes/head-custom.html
+
 url    : "https://412penn.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 

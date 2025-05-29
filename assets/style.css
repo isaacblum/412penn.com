@@ -1,0 +1,9 @@
+/* Responsive image class for Jekyll site */
+.responsive-img {
+  display: block;
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}

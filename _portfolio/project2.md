@@ -12,7 +12,7 @@ caption:
 
 This cozy second bedroom offers a perfect mix of charm and functionality for extended stays. A queen-size bed with a colorful handmade quilt adds a homey touch, while practical features like a spacious closet, full-length mirror, and extra dresser make settling in effortless. Soft lighting and peaceful décor create a restful retreat ideal for winding down after work. Whether you're on assignment or traveling solo, this room offers both warmth and convenience.
 
-![Alt text](assets/img/portfolio/second1.jpeg){: width="600" .center }
-![Alt text](assets/img/portfolio/second2.jpeg){: width="600" .center }
+![Alt text](assets/img/portfolio/second1.jpeg){: .responsive-img .center }
+![Alt text](assets/img/portfolio/second2.jpeg){: .responsive-img .center }
 
 {:.list-inline}
