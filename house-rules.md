@@ -268,7 +268,7 @@ Use Amazon Lockers or nearby pickup points for important deliveries.
 ## 🚨 Emergencies & Issues
 
 * 🔥 Fire, injury, etc.: Call **911**  
-* 🧰 Urgent issues (plumbing, heat): Call **970-299-9229**  
+* 🧰 Urgent issues (plumbing, heat): Omitted — see Airbnb app for details.   
 * 🔧 Non-urgent: Message us via the Airbnb app  
 📣 Guests are expected to notify the host promptly of any issues affecting safety, habitability, or property function.
 
