@@ -57,7 +57,8 @@ The home features a **covered carport** available for guest use.
 
 Guests are fully responsible for safely navigating their vehicle.  
 🛑 We are not liable for any damage to vehicles or belongings.  
-🛑 Damage to the property or structure caused by a vehicle is the guest’s responsibility.
+🛑 Damage to the property or structure caused by a vehicle is the guest’s responsibility.  
+🚘 Use of the carport is at your own risk.
 
 **If unsure, please use street parking.**
 
@@ -138,7 +139,8 @@ The backyard is **multi-leveled and rustic**.
 * 🦌 Wildlife like deer may be present, especially near the apple tree  
 * 🛑 Do not approach or feed animals
 
-Use caution on uneven ground or around sharp objects.
+Use caution on uneven ground or around sharp objects.  
+Guests acknowledge the natural terrain and condition of the outdoor property may pose risks. By using these areas, guests accept full responsibility for their own safety and agree to hold the host harmless from any claims of injury or damage.
 
 ---
 
@@ -159,7 +161,7 @@ Lawn care is provided. A landscaper may visit weekly or bi-weekly.
 ✅ Keep the yard clear of toys, chairs, or items that block access.
 
 **Winter:**  
-Guests are responsible for shoveling snow from walkways to maintain safe access.
+Guests are solely responsible for snow and ice removal as needed for safe access. The host is not liable for slips, falls, or other injuries caused by snow, ice, or failure to maintain clear walkways.
 
 ---
 
@@ -170,7 +172,8 @@ Guests are responsible for shoveling snow from walkways to maintain safe access.
 If using a BBQ or flame:  
 ✅ Place it on a safe, open area away from the house  
 ✅ Use the fire extinguisher provided  
-🛑 Never leave a fire unattended
+🛑 Never leave a fire unattended  
+🔥 Use of fire-related appliances or items is at the guest’s own risk. The host disclaims all responsibility for damages or injuries resulting from misuse or failure to follow safety guidelines.
 
 ---
 
@@ -209,7 +212,8 @@ There are **three exterior security cameras** on-site.
 * Cameras face outside areas only  
 * They do **not monitor inside**  
 * Audio may be recorded  
-* Not monitored unless there is a safety concern
+* Not monitored unless there is a safety concern  
+* Cameras are used solely for security purposes in accordance with applicable privacy laws
 
 📷 You can request screenshots of camera angles by providing your phone number.
 
@@ -227,7 +231,8 @@ Pets are allowed **only with prior approval**.
 If approved:  
 ✅ Clean up after pets indoors and outdoors  
 🛑 Damage caused by pets is your responsibility  
-🧹 Cleaning fees may apply for pet messes
+🧹 Cleaning fees may apply for pet messes  
+🐾 Guests bringing pets assume full responsibility for the animal's behavior, including any personal injury or property damage caused by the pet. The host is not responsible for injury to pets or damage caused by them.
 
 ---
 
@@ -254,6 +259,8 @@ Place recyclables in trash or take them to a local facility.
 Guests may receive packages **at their own risk**.  
 📭 We are not responsible for any delivery issues (lost, delayed, stolen, or misdelivered).  
 🛑 Do not return to the property after checkout to retrieve packages.  
+📦 The host does not accept, handle, or store any packages or deliveries on behalf of guests.
+
 Use Amazon Lockers or nearby pickup points for important deliveries.
 
 ---
@@ -261,8 +268,9 @@ Use Amazon Lockers or nearby pickup points for important deliveries.
 ## 🚨 Emergencies & Issues
 
 * 🔥 Fire, injury, etc.: Call **911**  
-* 🧰 Urgent issues (plumbing, heat): Call Omitted — see Airbnb app for details.  
-* 🔧 Non-urgent: Message us via the Airbnb app
+* 🧰 Urgent issues (plumbing, heat): Call **970-299-9229**  
+* 🔧 Non-urgent: Message us via the Airbnb app  
+📣 Guests are expected to notify the host promptly of any issues affecting safety, habitability, or property function.
 
 ---
 
@@ -271,3 +279,9 @@ Use Amazon Lockers or nearby pickup points for important deliveries.
 We want your stay to be **safe, comfortable, and enjoyable**.  
 If you have questions or need assistance at any time, please reach out via the Airbnb app.  
 **We’re happy to help.**
+
+---
+
+## ⚖️ Legal Disclaimer
+
+By staying at this property, you acknowledge that you have read, understood, and agreed to abide by all house rules. Failure to comply may result in fees, termination of your stay, or claims for damages. The host is not liable for accidents, injuries, or loss of personal belongings that occur on the property. Use of the home and surrounding areas is at your own risk.
