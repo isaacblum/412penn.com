@@ -15,8 +15,6 @@ We’re excited to host you! Below you’ll find everything you need for a smoot
 
 ---
 
-## 🛬 Check-In Guide
-
 ### 🚪 Arrival & Entry
 
 **Preferred Entry - Back Door:**  
@@ -35,7 +33,7 @@ To unlock:
 ✅ Enter your code on the keypad.  
 ✅ Press the **large oval button** located at the bottom of the number ring to confirm.
 
-![Alt text](/assets/img/portfolio/lock.png){: .responsive-img .center }
+![Lock example](/assets/img/portfolio/lock.png){: .responsive-img .center }
 
 **Your door code will be provided within 24 hours of your scheduled check-in time.**
 
@@ -109,7 +107,6 @@ If you have concerns, we recommend visiting the **City of Walsenburg’s website
 
 Each ceiling fan is controlled by a wall switch.  
 Fan speed and lighting are managed by **remotes in each room**.  
-
 ✅ Please keep remotes in their designated rooms to avoid confusion.
 
 ---
@@ -216,9 +213,9 @@ There are **three exterior security cameras** on-site.
 
 📷 You can request screenshots of camera angles by providing your phone number.
 
-![Alt text](/assets/img/portfolio/1.png){: .responsive-img .center }
-![Alt text](/assets/img/portfolio/2.png){: .responsive-img .center }
-![Alt text](/assets/img/portfolio/3.png){: .responsive-img .center }
+![Camera 1](/assets/img/portfolio/1.png){: .responsive-img .center }  
+![Camera 2](/assets/img/portfolio/2.png){: .responsive-img .center }  
+![Camera 3](/assets/img/portfolio/3.png){: .responsive-img .center }
 
 ---
 
@@ -227,10 +224,10 @@ There are **three exterior security cameras** on-site.
 Pets are allowed **only with prior approval**.  
 🛑 Do not bring pets unless they were part of your approved reservation.
 
-If approved:
-* ✅ Clean up after pets indoors and outdoors  
-* 🛑 Damage caused by pets is your responsibility  
-* 🧹 Cleaning fees may apply for pet messes
+If approved:  
+✅ Clean up after pets indoors and outdoors  
+🛑 Damage caused by pets is your responsibility  
+🧹 Cleaning fees may apply for pet messes
 
 ---
 
@@ -238,7 +235,7 @@ If approved:
 
 **Trash is picked up Wednesday mornings by 7am.**
 
-Please:
+Please:  
 * Take trash out weekly and before check-out  
 * Use the large bin near the stairs or curb  
 * Return the bin unless checking out  
@@ -248,7 +245,7 @@ Please:
 There is no curbside recycling in Walsenburg.  
 Place recyclables in trash or take them to a local facility.
 
-![Alt text](/assets/img/portfolio/trash.png){: .responsive-img .center }
+![Trash Bin](/assets/img/portfolio/trash.png){: .responsive-img .center }
 
 ---
 
@@ -256,7 +253,6 @@ Place recyclables in trash or take them to a local facility.
 
 Guests may receive packages **at their own risk**.  
 📭 We are not responsible for any delivery issues (lost, delayed, stolen, or misdelivered).  
-
 🛑 Do not return to the property after checkout to retrieve packages.  
 Use Amazon Lockers or nearby pickup points for important deliveries.
 
